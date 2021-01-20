@@ -1,17 +1,11 @@
 # Heat-exchanger-with-recycling  
 
-Detection of Lung diesease. For now it detects whether it is Pneumonia, Covid-19 or Healthy Lungs.   
+Project of Heat exchanger with medium recycling made in LabView and Matlab.  
 
-Update nr1. Rasa chatbot added. Base model was downloaded from "https://github.com/RasaHQ/rasa-for-beginners" and modified.
+![alt text](https://github.com/Suarez94/Heat-exchanger-with-recycling/blob/main/images/GUI.png)  
 
-Web Application looks like this:  
-![alt text](https://github.com/Suarez94/Lung-disease-detection/blob/master/images/webApp.png)  
+Sample 3D chart:
+![alt text](https://github.com/Suarez94/Heat-exchanger-with-recycling/blob/main/images/plot.png)  
 
-Simple chatbot:  
-![alt text](https://github.com/Suarez94/Lung-disease-detection/blob/master/images/rasa_flask.png)  
-
-and Mobile version (with older python engine) looks like this:  
-
-![alt text](https://github.com/Suarez94/Lung-disease-detection/blob/master/images/mobileApp.png)  
 
 
